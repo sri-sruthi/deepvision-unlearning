@@ -1,4 +1,4 @@
-Phase 2 Plan
+Phase 2 Plan:
 - Train 4 models on CIFAR-10
 - Run GA & SISA unlearning for scaling
 - Layer sensitivity analysis
